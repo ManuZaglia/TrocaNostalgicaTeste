@@ -37,7 +37,8 @@ Licença
 [Inclua aqui a licença sob a qual o site "Troca Vintage" é disponibilizado.]
 Contato
 
-Para obter mais informações ou entrar em contato com a equipe de desenvolvimento, você pode enviar um e-mail para [inserir endereço de e-mail] ou visitar nosso site em [inserir URL do site].
+Para obter mais informações ou entrar em contato com a equipe de desenvolvimento, você pode enviar um e-mail para [danielsouzajunio@gmail.com] ou visitar nosso site assim que estiver no ar.
+
 Histórico de Mudanças
 
 [Se desejar, você pode manter um registro das alterações feitas no site ao longo do tempo.]
